@@ -1,3 +1,10 @@
 {
-  "products": []
+  "products": [
+    {
+      "product": "Macbook Pro",
+      "price": "987",
+      "currency": "GBP",
+      "id": 2
+    }
+  ]
 }
