@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 import React from "react";
-import { useState } from "react";
 
 const Button = ({ color, onClick }) => {
   return (

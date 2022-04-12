@@ -1,5 +1,3 @@
-import react from "react";
-
 import Task from "./Task";
 
 const Tasks = ({ tasks, onDelete }) => {
