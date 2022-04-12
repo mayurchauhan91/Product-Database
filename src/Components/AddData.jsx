@@ -94,10 +94,12 @@ const AddData = () => {
         />
         <br />
       </div>
+<Link to="/">
 
       <button type="submit" value="Submit" className="blue-btn">
         SUBMIT
       </button>
+</Link>
     </form>
   );
 };
